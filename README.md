@@ -2,6 +2,10 @@
   <img src="assets/banner.gif" width="800" alt="Banner em pixel art: ATAENAS escrito em lilás num céu roxo estrelado, com uma gatinha, lua e nuvens">
 </p>
 
+<p align="center">
+  <img src="assets/avatar.png" width="192" height="192" alt="Autorretrato em pixel art da Thainá: cabelo roxo e castanho, camiseta preta com um coração neon rosa">
+</p>
+
 <h3 align="center">✦ Oi! Eu sou a Thainá ✦</h3>
 <p align="center"><i>artista · aspirante a designer · análise de dados</i></p>
 
